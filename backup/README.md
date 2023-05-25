@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-=======
 #Project 2: Crowdfunding_ETL
 
 
@@ -22,4 +20,3 @@ This dataframe was exported to campaign.csv
 Using regular expression, I extracted the contact_id, name, and email columns and ensured to extraneous information was included.
 
 I converted the contact_id column to an int64 data type, reordered the columns for clarity, and exported this info to a contacts.csv. 
->>>>>>> 72d89f9 (README.md file updated)
