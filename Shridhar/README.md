@@ -23,6 +23,8 @@ Work to be evaluated for the combined contribution from Sanjana and Shridhar
 
 <hr>
 Before loading the tables from .csv files
+
+<strong>Note:</strong> Please note the number of records in the bottom of the screenshots.
 <hr>
 
 1. Category</br>
@@ -40,6 +42,8 @@ Before loading the tables from .csv files
 
 <hr>
 After loading the tables from .csv files
+
+<strong>Note:</strong> Please note the number of records in the bottom of the screenshots.
 <hr>
 
 1. Category</br>
@@ -53,8 +57,6 @@ After loading the tables from .csv files
 
 4. Campaign</br>
 ![CampaignAfterLoadingCSV](https://github.com/shriparna/Crowdfunding_ETL/assets/71340748/65168f5d-f5a5-47dc-b9b5-ab7a06171391)
-
-<strong>Note:</strong> Please note the number of records in the bottom of the screenshots.
 
 <hr>
 Optional: Individual contribution if needs evaluation
